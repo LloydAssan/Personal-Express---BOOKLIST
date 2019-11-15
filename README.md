@@ -9,4 +9,11 @@ The user is able to add Title, Author and the ISBN number for each book and that
 
 **Tech used:** HTML, CSS, JavaScript
 
+# Installation
+Clone repo
+run npm install
+# Usage
+run node server.js
+Navigate to localhost:3000
+
 
