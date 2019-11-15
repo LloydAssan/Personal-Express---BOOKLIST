@@ -1,0 +1,50 @@
+body{
+  background-image: url("booklist.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 700px;
+}
+
+h1{
+  text-align: center;
+  font-style: oblique;
+  color: yellow;
+  font-size: 78px;
+  text-shadow: 2px 2px #ff0000;
+  font-weight: bolder;
+}
+
+h2{
+  text-align: center;
+  font-size: 33px;
+  text-shadow: 2px 2px #ff0000;
+  color: aliceblue;
+}
+
+
+li {
+      text-align: center;
+      color: whitesmoke;
+      font-size: 36px;
+}
+
+form{
+  margin-left: auto;
+  margin-right: auto;
+  width: 40em;
+}
+
+p {
+    text-align: center;
+    font-weight: 800;
+    margin-top: -3%;
+    font-size: 43px;
+    text-shadow: 2px 2px #ff0000;
+}
+
+button{
+  margin-bottom: 6rem;
+  background-color: black;
+  color: yellow;
+}
