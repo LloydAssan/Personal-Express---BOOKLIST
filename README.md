@@ -1,4 +1,4 @@
-# Personal-Express---BOOKLIST
+# Personal-Express--BOOKLIST
 
 This is fun project I worked on to help my friend keep track of her booklist for her book club.
 The user is able to add Title, Author and the ISBN number for each book and that is displayed.
@@ -7,7 +7,7 @@ The user is able to add Title, Author and the ISBN number for each book and that
 
 
 
-**Tech used:** HTML, CSS, JavaScript
+**Tech used:** HTML, CSS, JavaScript, MongoDB, Node.js
 
 # Installation
 Clone repo
